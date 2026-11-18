@@ -15,7 +15,7 @@
 
 ### introductions
 
-hello, i'm angel, a student of information technology at **NU Clark** in the Philippines.
+hello, i'm angel, a student of information technology at **NU Clark**.
 i enrolled knowing almost nothing about computers, and i would do it again.
 
 <br>
