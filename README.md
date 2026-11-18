@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nyzevelasco/nyzevelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.svg" alt="Angel Denyze G. Velasco" width="100%">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*you are cordially invited to review my code.*
+*please bring patience.*
+
+<br>
+
+---
+
+<br>
+
+### introductions
+
+hello, i'm angel, a student of information technology at **NU Clark** in the Philippines.
+i enrolled knowing almost nothing about computers, and i would do it again.
+
+<br>
+
+### the current situation
+
+i know **Java**. i think.
+everything else is loading.
+
+<br>
+
+### credentials
+
+<img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Googling-expert-0d0d0d?style=for-the-badge" alt="Googling, expert level">
+<img src="https://img.shields.io/badge/Bugs-created_daily-0d0d0d?style=for-the-badge" alt="Bugs, created daily">
+<img src="https://img.shields.io/badge/Git-learning-0d0d0d?style=for-the-badge&logo=git&logoColor=white" alt="Git, learning">
+
+<br><br>
+
+### on the horizon
+
+an app idea with big plans.
+it has no code yet, but it already has a pitch.
+
+<br>
+
+<br>
+
+### correspondence
+
+<a href="mailto:angeldenyzevelasco@gmail.com">angeldenyzevelasco@gmail.com</a>
+
+<br>
+
+<img src="./footer.svg" alt="Thanks for stopping by. No, I will not fix your printer." width="100%">
+
+</div>
