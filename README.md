@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Angel Denyze G. Velasco" width="100%">
+<img src="./banner.svg" alt="Angel 𝔇𝔢𝔫𝔶𝔷𝔢 G. Velasco" width="100%">
 
 <br>
 
@@ -13,21 +13,21 @@
 
 <br>
 
-### ✧ about me ✧
+### ⊹ ࣪ ˖꒰ঌ 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 ໒꒱.⋆˚࿔
 
 hello, i'm **angel**. an information technology student at **NU Clark**.  
 i enrolled knowing almost nothing about computers, and i would do it again.  
 
 <br>
 
-### ✧ my current situation with languages ✧
+### ✧ 𝐌𝐲 𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐬𝐢𝐭𝐮𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 ✧
 
 i know **Java**. i think.  
 everything else is loading.
 
 <br>
 
-### ✧ credentials ✧
+### ✧ 𝐂𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬 ✧
 
 <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Googling-expert-0d0d0d?style=for-the-badge" alt="Googling, expert level">
@@ -36,20 +36,20 @@ everything else is loading.
 
 <br><br>
 
-### ✧ my projects // lab tasks ✧
+### ✧ 𝐌𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 // 𝐋𝐚𝐛 𝐭𝐚𝐬𝐤𝐬 ✧
 
 *a curated archive of academic survival and functional Java.*
 
 <br>
 
-| activity | source |
+| 𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶 | 𝔰𝔬𝔲𝔯𝔠𝔢 |
 |:--|:--|
 | **Lab Task 1: Using 2 dimensional arrays** | [Lab-Task1♣️](MIDTERMS/activity_1.pdf) |
 | **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2♣️](MIDTERMS/activity_2.pdf) |
  
 <br>
 
-### ✧ on the horizon ✧
+### ✧ 𝐎𝐧 𝐭𝐡𝐞 𝐡𝐨𝐫𝐢𝐳𝐨𝐧. ✧
 
 an app idea with big plans.  
 it has no code yet, but it already has a pitch.
@@ -74,7 +74,7 @@ https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/wat
 
 <br>
 
-### ✧ correspondence ✧
+### ✧ 𝐂𝐨𝐫𝐫𝐞𝐬𝐩𝐨𝐧𝐝𝐞𝐧𝐜𝐞 ✧
 
 <a href="mailto:angeldenyzevelasco@gmail.com">angeldenyzevelasco@gmail.com</a>
 
