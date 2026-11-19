@@ -64,8 +64,8 @@ it has no code yet, but it already has a pitch.
 
 you opened it. bold of you.
 
-why do Java developers wear glasses?  
-because they don't C#. 🥁
+https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3DdQw4w9WgXcQ&ved=2ahUKEwiR3_ib-JKYAxWplFYBHSe8G5oQy_kOegoIAggACAAIEhAA&opi=89978449&cd&psig=AOvVaw0GSgTEORmXcne7IaSi9TQ-&ust=1795140122677000
+ 
 
 </details>
 
