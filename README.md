@@ -44,8 +44,8 @@ everything else is loading.
 
 | activity | source |
 |:--|:--|
-| **Lab Task 1: replace with title** | [view source](MIDTERMS/activity_1.docx) |
-| **Lab Task 2: replace with title** | [view source](MIDTERMS/activity_2.docx) |
+| **Lab Task 1: Using 2 dimensional arrays** | [Lab-Task1](MIDTERMS/activity_1.pdf) |
+| **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2](MIDTERMS/activity_2.pdf) |
  
 <br>
 
