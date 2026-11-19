@@ -42,12 +42,11 @@ everything else is loading.
 
 <br>
 
-| module / lab | description | stack |
-| :--- | :--- | :--- |
-| **`01` // [lab-task-title-here](#)** | brief one-liner on what the program does (e.g., console-based grade calculator or OOP inventory). | `Java` |
-| **`02` // [lab-task-title-here](#)** | another lab activity you survived without crying. replace `#` with your repo link. | `Java` |
-| **`03` // [lab-task-title-here](#)** | placeholder for your next midterm or finals lab submission. | `Java` `Git` |
-
+| activity | source |
+|:--|:--|
+| **Lab Task 1: replace with title** | [view source](https://github.com/nyzevelasco/REPO-NAME) |
+| **Lab Task 2: replace with title** | [view source](https://github.com/nyzevelasco/REPO-NAME) |
+ 
 <br>
 
 ### ✧ on the horizon ✧
