@@ -9,25 +9,25 @@
 
 <br>
 
----
+`── ✦ ────────── ✧ ────────── ✦ ──`
 
 <br>
 
-### introductions
+### ✧ about me ✧
 
-hello, i'm angel, a student of information technology at **NU Clark**.
-i enrolled knowing almost nothing about computers, and i would do it again.
+hello, i'm **angel**. an information technology student at **NU Clark**.  
+i enrolled knowing almost nothing about computers, and i would do it again.  
 
 <br>
 
-### the current situation
+### ✧ my current situation ✧
 
-i know **Java**. i think.
+i know **Java**. i think.  
 everything else is loading.
 
 <br>
 
-### credentials
+### ✧ credentials ✧
 
 <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Googling-expert-0d0d0d?style=for-the-badge" alt="Googling, expert level">
@@ -36,16 +36,46 @@ everything else is loading.
 
 <br><br>
 
-### on the horizon
+### ✧ my projects // lab tasks ✧
 
-an app idea with big plans.
+*a curated archive of academic survival and functional Java.*
+
+<br>
+
+| module / lab | description | stack |
+| :--- | :--- | :--- |
+| **`01` // [lab-task-title-here](#)** | brief one-liner on what the program does (e.g., console-based grade calculator or OOP inventory). | `Java` |
+| **`02` // [lab-task-title-here](#)** | another lab activity you survived without crying. replace `#` with your repo link. | `Java` |
+| **`03` // [lab-task-title-here](#)** | placeholder for your next midterm or finals lab submission. | `Java` `Git` |
+
+<br>
+
+### ✧ on the horizon ✧
+
+an app idea with big plans.  
 it has no code yet, but it already has a pitch.
 
 <br>
 
+<details>
+<summary><i>† please do not open this †</i></summary>
+
 <br>
 
-### correspondence
+you opened it. bold of you.
+
+why do Java developers wear glasses?  
+because they don't C#. 🥁
+
+</details>
+
+<br>
+
+`── ✦ ────────── ✧ ────────── ✦ ──`
+
+<br>
+
+### ✧ correspondence ✧
 
 <a href="mailto:angeldenyzevelasco@gmail.com">angeldenyzevelasco@gmail.com</a>
 
