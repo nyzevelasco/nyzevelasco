@@ -82,5 +82,4 @@ https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/wat
 <br>
 
 <img src="./footer.svg" alt="Thanks for stopping by. No, I will not fix your printer." width="100%">
-
 </div>
