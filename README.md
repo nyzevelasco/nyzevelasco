@@ -5,7 +5,7 @@
 <br>
 
 *you are cordially invited to review my code.*
-*please bring patience.*
+*please bring patience.*:octocat:
 
 <br>
 
@@ -44,8 +44,8 @@ everything else is loading.
 
 | activity | source |
 |:--|:--|
-| **Lab Task 1: Using 2 dimensional arrays** | [Lab-Task1](MIDTERMS/activity_1.pdf) |
-| **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2](MIDTERMS/activity_2.pdf) |
+| **Lab Task 1: Using 2 dimensional arrays** | [Lab-Task1♣️](MIDTERMS/activity_1.pdf) |
+| **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2♣️](MIDTERMS/activity_2.pdf) |
  
 <br>
 
