@@ -45,7 +45,7 @@ everything else is loading.
 | activity | source |
 |:--|:--|
 | **Lab Task 1: replace with title** | [view source](MIDTERMS/activity_1.docx) |
-| **Lab Task 2: replace with title** | [view source](https://github.com/nyzevelasco/REPO-NAME) |
+| **Lab Task 2: replace with title** | [view source](MIDTERMS/activity_2.docx) |
  
 <br>
 
