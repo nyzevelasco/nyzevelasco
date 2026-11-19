@@ -44,7 +44,7 @@ everything else is loading.
 
 | activity | source |
 |:--|:--|
-| **Lab Task 1: replace with title** | [view source](MIDTERMS/activity_1.docx) |
+| **Lab Task 1: replace with title** | [view source]([MIDTERMS/activity_1.docx](https://nationalueduph-my.sharepoint.com/:w:/r/personal/velascoag_students_nu-clark_edu_ph/Documents/activity_1.docx?d=w5924a04c3490448ebfa004777c204bca&csf=1&web=1&e=T2rzfY)) |
 | **Lab Task 2: replace with title** | [view source](MIDTERMS/activity_2.docx) |
  
 <br>
