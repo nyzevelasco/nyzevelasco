@@ -20,7 +20,7 @@ i enrolled knowing almost nothing about computers, and i would do it again.
 
 <br>
 
-### ✧ my current situation ✧
+### ✧ my current situation with languages ✧
 
 i know **Java**. i think.  
 everything else is loading.
