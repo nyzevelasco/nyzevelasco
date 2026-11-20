@@ -40,14 +40,7 @@ everything else is loading.
 
 *a curated archive of academic survival and functional Java.*
 
-<br>
 
-| 𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶 | 𝔰𝔬𝔲𝔯𝔠𝔢 |
-|:--|:--|
-| **Lab Task 1: Using 2 dimensional arrays** | [Lab-Task1♣️](MIDTERMS/activity_1.pdf) |
-| **Lab Task 2: Using 3 dimensional arrays** | [Lab-Task2♣️](MIDTERMS/activity_2.pdf) |
- 
-<br>
 
 ### ✧ 𝐎𝐧 𝐭𝐡𝐞 𝐡𝐨𝐫𝐢𝐳𝐨𝐧. ✧
 
